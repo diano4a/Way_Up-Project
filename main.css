@@ -9,7 +9,8 @@ img {
 .first-homework-text {
     background-color: blue;
     color: white;
-    margin: 0 1570px 0 0;
+    width: 100px;
+    box-sizing: border-box;
 }
 
 .first-HTML-code {
